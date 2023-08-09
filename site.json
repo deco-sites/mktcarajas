@@ -1,5 +1,8 @@
 {
-  "siteId": 239,
-  "namespace": "deco-sites/fashion",
-  "imports": ["$live/live.gen.ts", "deco-sites/std/live.gen.ts"]
+  "siteId": 2060,
+  "namespace": "deco-sites/mktcarajas",
+  "imports": [
+    "$live/live.gen.ts",
+    "deco-sites/std/live.gen.ts"
+  ]
 }
